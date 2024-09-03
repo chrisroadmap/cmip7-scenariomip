@@ -13,6 +13,6 @@ dependencies:
   - xarray
   - pip
   - pip:
-    - git+ssh://git@github.com/OMS-NetZero/FAIR.git@fill-from-anything
+    - git+ssh://git@github.com/OMS-NetZero/FAIR.git@v2.2-dev
     # install development version of fair-2.2 that grabs emissions from 
     # pre-supplied CSVs
