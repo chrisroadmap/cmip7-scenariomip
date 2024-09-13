@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python==3.11
+  = fair==2.2.0
   - jupyter
   - matplotlib
   - nbstripout
@@ -11,8 +12,3 @@ dependencies:
   - pooch
   - tqdm
   - xarray
-  - pip
-  - pip:
-    - git+ssh://git@github.com/OMS-NetZero/FAIR.git@fill-from-anything
-    # install development version of fair-2.2 that grabs emissions from 
-    # pre-supplied CSVs
