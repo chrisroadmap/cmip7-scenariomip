@@ -1,4 +1,4 @@
-name: explore-extensions
+name: cmip7-scenariomip
 channels:
   - conda-forge
 dependencies:
