@@ -1,0 +1,105 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper below."
+title: "ScenarioMIP_final"
+authors:
+  - family-names: Sanderson
+    given-names: Benjamin M.
+preferred-citation:
+  type: article
+  title: "The Scenario Model Intercomparison Project for CMIP7 (ScenarioMIP-CMIP7)"
+  journal: "Geoscientific Model Development"
+  year: 2026
+  volume: 19
+  issue: 7
+  start: 2627
+  end: 2656
+  doi: "10.5194/gmd-19-2627-2026"
+  authors:
+    - family-names: Van Vuuren
+      given-names: Detlef P.
+    - family-names: O'Neill
+      given-names: Brian C.
+    - family-names: Tebaldi
+      given-names: Claudia
+    - family-names: Sanderson
+      given-names: Benjamin M.
+    - family-names: Chini
+      given-names: Louise P.
+    - family-names: Friedlingstein
+      given-names: Pierre
+    - family-names: Hasegawa
+      given-names: Tomoko
+    - family-names: Riahi
+      given-names: Keywan
+    - family-names: Govindasamy
+      given-names: Bala
+    - family-names: Bauer
+      given-names: Nico
+    - family-names: Eyring
+      given-names: Veronika
+    - family-names: Fall
+      given-names: Cheikh M. N.
+    - family-names: Frieler
+      given-names: Katja
+    - family-names: Gidden
+      given-names: Matthew J.
+    - family-names: Gohar
+      given-names: Laila K.
+    - family-names: Högner
+      given-names: Annika
+    - family-names: Jones
+      given-names: Andrew D.
+    - family-names: Kikstra
+      given-names: Jarmo
+    - family-names: King
+      given-names: Andrew
+    - family-names: Knutti
+      given-names: Reto
+    - family-names: Kriegler
+      given-names: Elmar
+    - family-names: Lawrence
+      given-names: Peter
+    - family-names: Lennard
+      given-names: Chris
+    - family-names: Lowe
+      given-names: Jason
+    - family-names: Mathison
+      given-names: Camilla
+    - family-names: Mehmood
+      given-names: Shahbaz
+    - family-names: Nicholls
+      given-names: Zebedee
+    - family-names: Prado
+      given-names: Luciana F.
+    - family-names: Zhang
+      given-names: Qiang
+    - family-names: Rose
+      given-names: Steven K.
+    - family-names: Ruane
+      given-names: Alex C.
+    - family-names: Sandstad
+      given-names: Marit
+    - family-names: Schleussner
+      given-names: Carl-Friedrich
+    - family-names: Seferian
+      given-names: Roland
+    - family-names: Sillmann
+      given-names: Jana
+    - family-names: Smith
+      given-names: Chris
+    - family-names: Sörensson
+      given-names: Anna A.
+    - family-names: Panickal
+      given-names: Swapna
+    - family-names: Tachiiri
+      given-names: Kaoru
+    - family-names: Vaughan
+      given-names: Naomi
+    - family-names: Vishwanathan
+      given-names: Saritha S.
+    - family-names: Yokohata
+      given-names: Tokuta
+    - family-names: Zecchetto
+      given-names: Marco
+    - family-names: Ziehn
+      given-names: Tilo
