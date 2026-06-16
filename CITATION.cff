@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the associated paper below."
-title: "ScenarioMIP_final"
+title: "Preliminary ScenarioMIP-CMIP7 global mean emissions and temperature projections"
 authors:
-  - family-names: Sanderson
-    given-names: Benjamin M.
+  - family-names: Van Vuuren
+    given-names: Detlef P.
 preferred-citation:
   type: article
   title: "The Scenario Model Intercomparison Project for CMIP7 (ScenarioMIP-CMIP7)"
