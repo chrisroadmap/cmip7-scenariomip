@@ -1,0 +1,9 @@
+fair>=2.2
+matplotlib
+numpy
+pandas
+pooch
+xarray
+netcdf4
+ipykernel
+jupyterlab

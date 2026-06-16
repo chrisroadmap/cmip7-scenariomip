@@ -1,0 +1,25 @@
+{
+  "filename": "../data/fair-inputs/emissions_1750-2500.csv",
+  "created": "2025-10-27T19:04:05.716777",
+  "format_version": "enhanced_v1.0",
+  "description": "Enhanced continuous emissions timeseries with GWP values and climate metrics",
+  "data_structure": {
+    "time_coverage": "1750 to 2500",
+    "total_years": 751,
+    "total_rows": 609,
+    "models": 7,
+    "scenarios": 7,
+    "regions": 1,
+    "variables": 87
+  },
+  "gwp_values": "AR6 100-year Global Warming Potentials",
+  "units": {
+    "CO2": "Mt CO2/yr",
+    "non_CO2_native": "Mt gas/yr or kt gas/yr",
+    "CO2_equivalent": "Mt CO2-eq/yr"
+  },
+  "aggregates_included": [
+    "Emissions|CO2|Total",
+    "Emissions|Kyoto GHG AR6GWP100"
+  ]
+}
